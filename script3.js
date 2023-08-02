@@ -14,7 +14,7 @@ function calculateSalary(input) {
     }
     
   }
-let userInput = parseFloat(prompt("Введите число:"));
+let userInput = parseInt(prompt("Введите число:"));
 calculateSalary(userInput);
   
 //3 задание
